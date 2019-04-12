@@ -1,0 +1,2 @@
+线程异常捕捉 UncaughtExceptionHandler
+集合同步修改异常：ConcurrentModificationException 同时修改一个非线程安全的集合类会出错
